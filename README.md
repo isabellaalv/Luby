@@ -1,4 +1,4 @@
-# Luby Logica de Programaca Luby
+# Luby Logica de Programacao
 
 
 <!-- 1.1 Implemente a função abaixo para calcular fatorial de um número.
