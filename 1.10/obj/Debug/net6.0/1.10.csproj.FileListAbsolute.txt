@@ -1,0 +1,15 @@
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.csproj.AssemblyReference.cache
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.AssemblyInfoInputs.cache
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.AssemblyInfo.cs
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.csproj.CoreCompileInputs.cache
+C:\Users\isabella.silva\Desktop\Luby\1.10\bin\Debug\net6.0\1.10.exe
+C:\Users\isabella.silva\Desktop\Luby\1.10\bin\Debug\net6.0\1.10.deps.json
+C:\Users\isabella.silva\Desktop\Luby\1.10\bin\Debug\net6.0\1.10.runtimeconfig.json
+C:\Users\isabella.silva\Desktop\Luby\1.10\bin\Debug\net6.0\1.10.dll
+C:\Users\isabella.silva\Desktop\Luby\1.10\bin\Debug\net6.0\ref\1.10.dll
+C:\Users\isabella.silva\Desktop\Luby\1.10\bin\Debug\net6.0\1.10.pdb
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.dll
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\ref\1.10.dll
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.pdb
+C:\Users\isabella.silva\Desktop\Luby\1.10\obj\Debug\net6.0\1.10.genruntimeconfig.cache

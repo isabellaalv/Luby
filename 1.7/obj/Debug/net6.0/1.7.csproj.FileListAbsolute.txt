@@ -1,0 +1,15 @@
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.csproj.AssemblyReference.cache
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.AssemblyInfoInputs.cache
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.AssemblyInfo.cs
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.csproj.CoreCompileInputs.cache
+C:\Users\isabella.silva\Desktop\Luby\1.7\bin\Debug\net6.0\1.7.exe
+C:\Users\isabella.silva\Desktop\Luby\1.7\bin\Debug\net6.0\1.7.deps.json
+C:\Users\isabella.silva\Desktop\Luby\1.7\bin\Debug\net6.0\1.7.runtimeconfig.json
+C:\Users\isabella.silva\Desktop\Luby\1.7\bin\Debug\net6.0\1.7.dll
+C:\Users\isabella.silva\Desktop\Luby\1.7\bin\Debug\net6.0\ref\1.7.dll
+C:\Users\isabella.silva\Desktop\Luby\1.7\bin\Debug\net6.0\1.7.pdb
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.dll
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\ref\1.7.dll
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.pdb
+C:\Users\isabella.silva\Desktop\Luby\1.7\obj\Debug\net6.0\1.7.genruntimeconfig.cache
